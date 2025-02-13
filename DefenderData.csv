@@ -1,0 +1,47 @@
+Name,Team,KnownAs,Minutes,Tackles,Interceptions,PossesionWon,Blocks,Clearances,GroundDuelsWon,AerialDuelsWon,AvgPossesion,PrimaryColor,SecondaryColor,GoalsConceded
+William Saliba,Arsenal,Saliba,1920,45,14,98,7,64,62,32,54.82,#f50706,#ffffff,16
+Gabriel Magalhaes,Arsenal,Gabriel,1899,20,11,44,26,69,37,44,54.82,#f50707,#ffffff,20
+Ezri Konsa,Aston Villa,Konsa,1902,28,16,60,4,65,66,18,50.35,#8ad4ff,#8c3a3a,34
+Pau Torres,Aston Villa,Torres,1550,18,6,52,9,49,36,15,50.35,#8ad4ff,#8c3a3a,29
+Diego Carlos,Aston Villa,Carlos,828,8,5,36,7,35,11,11,50.35,#8ad4ff,#8c3a3a,15
+Illia Zabarnyi,Bournemouth,Zabarnyi,2160,40,24,116,18,120,48,53,46.28,#eb0705,#000002,28
+Dean Huijsen,Bournemouth,Huijsen,1240,23,29,65,19,80,28,34,46.28,#eb0706,#000001,13
+Marcos Senesi,Bournemouth,Senesi,921,33,11,62,6,42,44,21,46.28,#eb0707,#000000,15
+Sepp van den Berg,Brentford,van de Berg,1750,25,14,59,24,79,37,62,47.84,#ed0909,#ffffff,37
+Nathan Collins,Brentford,Collins,2169,27,21,111,24,138,50,77,47.84,#ed0910,#ffffff,42
+Ethan Pinnock,Brentford,Pinnock,1449,29,10,42,16,102,34,49,47.84,#ed0911,#ffffff,30
+Jan Paul van Hecke,Brighton,van Hecke,1901,28,19,92,16,77,44,62,53.76,#0261f1,#ffffff,30
+Lewis Dunk,Brighton,Dunk,1661,16,18,64,14,56,22,48,53.76,#0261f0,#ffffff,30
+Levi Colwill,Chelsea,Colwill,1979,26,24,44,17,49,44,49,58.3,#0932e8,#ffffff,29
+Trevor Chalobah,Chelsea,Chalobah,1244,21,23,62,18,67,45,29,58.3,#0932e9,#ffffff,4
+Tosin Adarabioyo,Chelsea,Tosin,821,12,3,26,6,32,16,23,58.3,#0932e1,#ffffff,10
+Maxence Lacroix,Crystal Palace,Lacroix,1898,44,40,108,9,119,65,57,43.32,#1a60ed,#db1a13,25
+Marc Guehi,Crystal Palace,Guehi,2078,36,14,106,19,100,64,58,43.32,#1a60ed,#db1a14,29
+James Tarkowski,Everton,Tarkowski,2562,51,26,76,32,142,69,75,39.97,#1553cf,#0540b5,30
+Jarrad Branthwaite,Everton,Branthwaite,1366,23,16,44,10,75,32,22,39.97,#1553cf,#0540b6,14
+Joachim Andersen,Fulham,Anderson,1483,15,18,73,6,86,37,38,52.76,#000002,#ffffff,20
+Calvin Bassey,Fulham,Bassey,2028,14,13,110,14,69,63,29,52.76,#000001,#ffffff,30
+Issa Diop,Fulham,Diop,1508,21,7,35,7,49,25,17,52.76,#000000,#ffffff,14
+Dara O'Shea,Ipswich,O'Shea,1863,35,23,73,27,116,45,77,40.66,#0267bf,#ffffff,42
+Jacob Greaves,Ipswich,Greaves,1260,23,16,35,14,82,33,47,40.66,#0267bf,#ffffff,26
+Jannik Vestergaard,Leiscester,Vestergaard,1263,28,15,41,15,68,37,26,45.86,#0470cf,#ffffff,32
+Wout Faes,Leiscester,Faes,1642,28,17,58,21,105,35,34,45.86,#0470cf,#ffffff,38
+Virgil van Dijk,Liverpool,van Dijk,2079,25,16,88,6,99,56,69,58.03,#ed0909,#db1414,23
+Ibrahima Konate,Liverpool,Konate,1451,23,9,57,9,63,33,47,58.03,#ed0910,#db1415,14
+Manuel Akanji,Manchester City,Akanji,1750,16,7,84,7,53,25,24,61.02,#a2d1fa,#75bfff,27
+Ruben Dias,Manchester City,Dias,1176,9,14,49,18,52,15,10,61.02,#a2d1fa,#75bfff,14
+Matthijs de Ligt,Manchester United,de Ligt,1682,17,26,59,13,49,27,41,54.09,#db1414,#b01a1a,27
+Harry Maguire,Manchester United,Maguire,1088,17,31,48,7,46,23,55,54.09,#db1415,#b01a1a,17
+Lisandro Martinez,Manchester United,Martinez,1754,46,32,81,8,54,53,14,54.09,#db1416,#b01a1a,27
+Dan Burn,Newcastle,Burn,2070,25,15,62,15,109,34,87,50.88,#000001,#ffffff,27
+Fabian Schar,Newcastle,Schar,1693,19,27,92,16,71,34,26,50.88,#000000,#ffffff,24
+Murillo,Notingham Forest ,Murillo,2038,38,24,85,29,144,62,23,39.57,#ed0909,#ffffff,27
+Nikola Milenkovic,Notingham Forest ,Milenkovic,2079,27,16,47,15,119,31,65,39.57,#ed0910,#ffffff,26
+Taylor Harwood-Bellis,Southampton,Harwood-Bellis,1895,21,28,57,23,98,35,41,51.86,#d91413,#ffffff,45
+Jan Bednarek,Southampton,Bednarek,1764,24,40,82,25,118,34,51,51.86,#d91414,#ffffff,42
+Radu Dragusin,Tottenham,Dragusin,1201,19,16,40,16,46,19,34,57.51,#ffffff,#363636,29
+Cristian Romero,Tottenham,Romero,976,27,13,62,3,29,26,25,57.51,#ffffff,#363637,13
+Maximilian Kilman,West Ham,Kilman,2209,22,28,191,25,123,41,67,46.59,#612301,#189e9a,46
+Konstantinos Mavropanos,West Ham,Mavropanos,1483,26,32,52,14,74,42,41,46.59,#612302,#189e9a,28
+Santiago Bueno,Wolves,Bueno,1334,27,13,26,17,45,30,21,46.45,#f5cd1b,#000000,30
+Craig Dawson,Wolves,Dawson,969,16,9,35,11,51,21,21,46.45,#f5cd1b,#000001,25
