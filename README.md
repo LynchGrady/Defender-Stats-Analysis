@@ -15,15 +15,15 @@ So how do we statistically determine which center defenders are performing the b
 
 The primary reason that defenders on worse performing teams have higher defensive counting stats is that they do more defending, and therefore have more opportunities to make tackles, blocks, clearances, etc. In order to get a better statistical picture of these stats, I created some visualizations that use stats I called 'True stats per 45'.
 
-To create these stats, I first gathered the data for each teams average possesion, which is the percentage of a 90 minute game during which the team possesses the ball and is not defending. I then used the inverse of these percentages to calculate a stat, DefMinutes, that showed how many minutes the player has played this season on defense. Considering a baseline possesion percentage of 50%, and therefore 45 minutes of the 90 playing defense, I then calculated these True stats per 45 using 'DefMinutes'.
+To create these stats, I first gathered the data for each teams average possession, which is the percentage of a 90 minute game during which the team possesses the ball and is not defending. I then used the inverse of these percentages to calculate a stat, DefMinutes, that showed how many minutes the player has played this season on defense. Considering a baseline possession percentage of 50%, and therefore 45 minutes of the 90 playing defense, I then calculated these True stats per 45 using 'DefMinutes'.
 
-These first two plots show players blocks and clearances. The first one uses just regular per 90 stats, and the second one uses TrueBlocksPer45 and TrueClearancesPer45.
+These first two plots show players' blocks and clearances. The first one uses just regular per 90 stats, and the second one uses TrueBlocksPer45 and TrueClearancesPer45.
 
 ![image](https://github.com/user-attachments/assets/e183d21d-fd55-4038-a990-a60bf5889c63)
 
 ![image](https://github.com/user-attachments/assets/c0ff39e3-2ea7-4eba-9580-2680437ab62f)
 
-With the True stats per 45 plot, you can see a small drop off in the stats of players from low average possesion teams like Ipswich Town and Southampton, and an increse in the stats of players from high possesion teams like Manchester City and Chelsea.
+With the True stats per 45 plot, you can see a small drop off in the stats of players from low average possession teams like Ipswich Town and Southampton, and an increase in the stats of players from high possession teams like Manchester City and Chelsea.
 
 Comparison of per 90 and True per 45 Plots for Tackles vs Interceptions
 --------------------------------------------------
@@ -32,7 +32,7 @@ Comparison of per 90 and True per 45 Plots for Tackles vs Interceptions
 
 ![image](https://github.com/user-attachments/assets/0b8c67db-9660-4154-910b-b7dd56659024)
 
-Comparison of per 90 and True per 45 Plots for Ground Duels Won vs Arial Duels Won
+Comparison of per 90 and True per 45 Plots for Ground Duels Won vs Aerial Duels Won
 --------------
 
 ![image](https://github.com/user-attachments/assets/155eadca-5c5b-4184-a46d-17dd6bcf379a)
@@ -42,4 +42,4 @@ Comparison of per 90 and True per 45 Plots for Ground Duels Won vs Arial Duels W
 Conclusion
 ===========
 
-The adjustments made to these stats, when compared side by side, do clearly improve the quality of the statistical data. The True Per 45 stats paint a more accurate statistical picture of center defender performance than per 90 stats do. I think that the difference is most significant when it comes to analyzing blocks and clearances. For the tackle, interception, and duels stats, I think that even more adjustments can be made. These stats are often accumulated in periods of transition during the game, and teams that play a more risky and volitile style of soccer will naturally have more periods of transition. I think that if there is a way to quantify the frequency of transitional periods in each teams game, those transitional counting stats could be adjusted and become much more indicative of the actual performance of center defenders.
+The adjustments made to these stats, when compared side by side, do clearly improve the quality of the statistical data. The True Per 45 stats paint a more accurate statistical picture of center defender performance than per 90 stats do. The difference is most significant when it comes to analyzing blocks and clearances. For the tackle, interception, and duel stats, I think that even more adjustments can be made. These stats are often accumulated in periods of transition during the game, and teams that play a more risky and volatile style of soccer will naturally have more periods of transition. If there is a way to quantify the frequency of transitional periods in each teams game, those transitional counting stats could be adjusted and become much more indicative of the actual performance of center defenders.
