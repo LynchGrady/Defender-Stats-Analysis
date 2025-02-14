@@ -10,7 +10,7 @@ The statistical data for the sport of soccer is different than it is for most ot
 
 ![image](https://github.com/user-attachments/assets/c1295a9c-be2e-4236-b6f3-b1df20dbf0df)
 
-So how do we statistically determine which center defenders are performing the best?
+How do we statistically determine which center defenders are performing the best?
 ----------------------------------------------------------------------------------------
 
 The primary reason that defenders on worse performing teams have higher defensive counting stats is that they do more defending, and therefore have more opportunities to make tackles, blocks, clearances, etc. In order to get a better statistical picture of these stats, I created some visualizations that use stats I called 'True stats per 45'.
