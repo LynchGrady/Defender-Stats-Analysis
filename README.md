@@ -10,7 +10,8 @@ The statistical data for the sport of soccer is different than it is for most ot
 
 ![image](https://github.com/user-attachments/assets/c1295a9c-be2e-4236-b6f3-b1df20dbf0df)
 
-![image](https://github.com/user-attachments/assets/96ddb009-7e31-4b48-aa96-4799e3843fc9)
+![image](https://github.com/user-attachments/assets/5b5ee4f5-1fdd-45c8-9d4f-adb2fb179325)
+
 
 
 How do we statistically determine which center defenders are performing the best?
